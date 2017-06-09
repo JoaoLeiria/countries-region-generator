@@ -1,6 +1,6 @@
 # countries-region-generator
 
-![Earth Flag]({{site.baseurl}}//earth_flag.jpg)
+![]({{site.baseurl}}/https://static1.squarespace.com/static/5506acb1e4b0b39d3c22d329/t/555897d8e4b0c9f331970cdc/1431869404880/earth_flag)
 Python script that generates a JSON with a list of countries and it's regions
 
 
